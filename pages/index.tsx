@@ -22,8 +22,8 @@ export default function Home({ allPostsData }: any) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi! My name is Amos Bafuna. I'm a full-stack developer based in DRC,
-          you can find me on{' '}
+          Hi! My name is Amos Bafuna. I&apos;m a full-stack developer based in
+          DRC, you can find me on{' '}
           <Link href="https://github.com/amos-bafuna">Github</Link>
         </p>
         <p>
